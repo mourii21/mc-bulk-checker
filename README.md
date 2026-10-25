@@ -1,3 +1,6 @@
+# mc bulk checker!
+by mourii21
+
 ## How to use:
 1.input your desired username in names.txt (only one username per line)
 2.open command prompt
@@ -13,3 +16,8 @@ mourii21 on discord
 
 ### Note:
 I dont mind credits at all just do whatever u want with it :D
+
+![GitHub Release](https://shields.io)
+![GitHub Downloads (all assets, all releases)](https://shields.io)
+![GitHub Issues](https://shields.io)
+![Python Version](https://shields.io
