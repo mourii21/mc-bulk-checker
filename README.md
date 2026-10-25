@@ -15,7 +15,6 @@ I takes absolutely zero responsibility or liability for how you choose to use th
 2. Open the Terminal: Launch your command prompt (cmd) or terminal application.
 3. Navigate to the Directory: Change directory to the tool's folder by running:bash
 cd "path/to/your/folder"
-Use code with caution.
 4. Execute the Script: Run the checker using Python:bash
 python checker.py
 
@@ -23,7 +22,6 @@ python checker.py
 
 Why isn't the script working?
 The most common cause is that Python is not installed on your system. To resolve this:
-• Download and install the latest stable version of Python from the official portal at python.org.
 • During installation, ensure you check the box that says "Add Python to PATH" to enable command line access.
 
 ## Support & Contact
